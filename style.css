@@ -8,14 +8,22 @@
 
 }
 
-h1{
+.tiulo{
+
     margin-top: 30px;
     text-align: center;
     font-size: 60px;
     color: #1351b4;
     font-weight: bold;
+    line-height: normal;
+    
 
 
+}
+
+p{
+    margin-top: 12px;
+    font-size: 25px;
 }
 
 h2{
@@ -119,6 +127,7 @@ textarea{
     
     }
 
+    
     label{
         font-size: 20px;
     }
